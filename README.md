@@ -2,12 +2,12 @@
 
 ## About
 
-This project contains a Google Colab Notebook to run binary and multi-class classifications of chest x-ray images. You can run the experiments for binary classification and multi-class classification.
+This project contains a Google Colab Notebook to run binary and multi-class classifications of chest x-ray images. You can run the experiments for binary classification and multi-class classification. Note that CXR.zip contains a sample of the data to speed up training. Running the full dataset on the notebook takes many hours. Link to full dataset: https://www.kaggle.com/endiqq/largest-covid19-dataset
 
 
 ## How to
 
-1.  Download CXR.zip from https://www.kaggle.com/endiqq/largest-covid19-dataset?select=CXR
+1.  Download CXR.zip from https://drive.google.com/file/d/1ELbo-N9FzeNhIhiR_ydKwVG2NsevjNPy/view?usp=sharing
 2.  Load notebook into Google Colab
 3.  Create a folder named DLFHC in the root of your Google Drive and place CXR.zip within it. Alternatively you can place CXR.zip where you want and update the third code block with the directory
 4.  Run the notebook
